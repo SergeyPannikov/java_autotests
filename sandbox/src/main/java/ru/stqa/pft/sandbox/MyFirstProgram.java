@@ -20,7 +20,6 @@ public class MyFirstProgram {
         /* Задание 4 */
         Point p = new Point();
         System.out.println("Расстояние между точками " + "(" + p1.x + "," + p1.y + ")" + " и " + "(" + p2.x + "," + p2.y + ")" + " будет = " + p.distance(p1, p2));
-
     }
 
     public static void hello(String somebody) {
